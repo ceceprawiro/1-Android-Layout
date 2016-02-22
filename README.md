@@ -1,5 +1,5 @@
-# Luas
-Belajar Android - Menghitung Luas
+# 1-Android-Layout
+1. Belajar Android - Layout (LinearLayout) dan event onClick
 
 Hanya ada dua file penting di sini, yaitu:
 
